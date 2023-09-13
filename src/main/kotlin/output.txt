@@ -1,4 +1,0 @@
-[H[2J[3J
-real	1m10.242s
-user	0m0.214s
-sys	0m1.651s
